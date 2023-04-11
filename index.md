@@ -20,6 +20,6 @@ I'm interested in Data Science and Analysis, Machine Learning, AI and Computer P
 
 ### Get in Touch
 <ul>
-<li><a href="https://linkedin.com/{{ site.linkedin_behnam-baloochy }}">LinkedIn</a></li>
-<li><a href="https://github.com/{{ site.github_baloochyb }}">GitHub</a></li>
+<li><a href="https://linkedin.com/{{ site.linkedin_username }}">LinkedIn</a></li>
+<li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
 </ul>
