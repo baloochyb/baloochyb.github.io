@@ -1,9 +1,15 @@
-# My Projects
-Here is a list of projects that I am working on:
-# My Interests
-I'm interested in data science!
-# My Blog
-I'm really excited to blog my journey on GitHub.com.
+# Hi, I'm Behnam
+## Let's learn together!
+
+### My Projects
+Here are a list of projects that I am have been working on:
+<ul>
+<li><a href="https://github.com/baloochyb/best-example">Best Example</a></li>
+</ul>
+
+### My Interests
+I'm interested in Data Science and Analysis, Machine Learning, AI and Computer Programming.
+### My Blog
 <ul>
 {% for post in site.posts %}
 <li>
@@ -11,10 +17,9 @@ I'm really excited to blog my journey on GitHub.com.
 </li>
 {% endfor %}
 </ul>
-# Get in Touch
+
+### Get in Touch
 <ul>
-<li><a href="https://linkedin.com/{{ site.linkedin_baloochy1400@yahoo.com
-}}">linkedin</a></li>
-<li><a href="https://github.com/{{ site.github_baloochyb
-}}">GitHub</a></li>
+<li><a href="https://linkedin.com/{{ site.linkedin_behnam-baloochy }}">LinkedIn</a></li>
+<li><a href="https://github.com/{{ site.github_baloochyb }}">GitHub</a></li>
 </ul>
