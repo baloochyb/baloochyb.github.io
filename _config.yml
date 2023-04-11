@@ -1,5 +1,7 @@
-title: <Behnam>
-description: <This is a space for introducing myself>
-linkedin_username: baloochy1400@yahoo.com
+title: Behnam Baloochy, MSc
+description: Freelancer
+linkedin_username: behnam-baloochy
 github_username: baloochyb
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
