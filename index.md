@@ -5,6 +5,7 @@
 Here are a list of projects that I am currently working on:
 <ul>
 <li><a href="https://github.com/baloochyb/GoogleColab">GoogleColab</a></li>
+<li><a href="https://github.com/baloochyb/Kaggle">Kaggle</a></li>
 </ul>
 
 ### My Interests
