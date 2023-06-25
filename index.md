@@ -2,13 +2,13 @@
 ## Let's learn together!
 
 ### My Projects
-Here are a list of projects that I am have been working on:
+Here are a list of projects that I am currently working on:
 <ul>
-<li><a href="https://github.com/baloochyb/best-example">Best Example</a></li>
+<li><a href="https://github.com/baloochyb/GoogleColab">GoogleColab</a></li>
 </ul>
 
 ### My Interests
-I'm interested in Data Science and Analysis, Machine Learning, AI and Computer Programming.
+I'm interested in Data Science and Analysis, Big Data, Machine Learning, AI and Computer Programming.
 ### My Blog
 <ul>
 {% for post in site.posts %}
