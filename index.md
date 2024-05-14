@@ -9,7 +9,7 @@ Here are a list of projects that I am currently working on:
 </ul>
 
 ### My Interests
-I'm interested in Data Science and Analysis, Big Data, Machine Learning, AI and Time Series Forecasting.
+I'm interested in Data Science and Analysis, Machine Learning, AI and Time Series Forecasting.
 ### My Blog
 <ul>
 {% for post in site.posts %}
