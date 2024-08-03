@@ -5,11 +5,11 @@
 Here are a list of projects that I am currently working on:
 <ul>
 <li><a href="https://github.com/baloochyb/PricePrediction">Time Series Forecasting</a></li>
-<li><a href="https://github.com/baloochyb/NautilusTrader">NautilusTrader</a></li>
+<li><a href="https://github.com/baloochyb/Web3DataScience">Web3</a></li>
 </ul>
 
 ### My Interests
-I'm interested in Data Science and Analysis, Machine Learning, AI and Time Series Forecasting.
+I am an artificial intelligence specialist and data scientist, also familiar with web3, blockchain, non-fungible tokens (NFT) and cryptocurrency trading.
 ### My Blog
 <ul>
 {% for post in site.posts %}
