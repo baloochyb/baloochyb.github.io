@@ -9,7 +9,7 @@ Here are a list of projects that I am currently working on:
 </ul>
 
 ### My Interests
-I am an artificial intelligence specialist and data scientist, also familiar with web3, blockchain, non-fungible tokens (NFT) and cryptocurrency trading.
+I am an artificial intelligence specialist and data scientist, also familiar with web3, blockchains, on-chain and off-chain data analysis,  decentralized finance (DeFi), non-fungible tokens (NFT) and cryptocurrency trading.
 ### My Blog
 <ul>
 {% for post in site.posts %}
